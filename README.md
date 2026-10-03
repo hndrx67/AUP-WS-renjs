@@ -1,4 +1,4 @@
-# AUP Work Scholars
+# AUP Work Scholars - Supabase DB
 
 Next.js 15 (App Router) + React 19 + TypeScript + Tailwind CSS + Supabase.
 

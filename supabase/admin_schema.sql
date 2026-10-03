@@ -6,9 +6,9 @@
 do $$
 declare
   -- >>> EDIT THESE THREE VALUES BEFORE RUNNING <<<
-  v_email     text := 'aupwsadmin@aup.edu.ph';
-  v_password  text := 'silverwolf';
-  v_full_name text := 'System Administrator';
+  v_email     text := 'redacted';
+  v_password  text := 'redacted';
+  v_full_name text := 'redacted';
   -- >>> -------------------------------------- <<<
 
   v_user_id uuid;
